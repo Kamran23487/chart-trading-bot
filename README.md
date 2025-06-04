@@ -1,1 +1,0 @@
-# chart-trading-bot
